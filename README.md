@@ -5,4 +5,3 @@ Use the following credentials for Bank Project:
 2) ls - PIN:2345
 3) tc - PIN:9876
 4) dn - PIN:4321
-
