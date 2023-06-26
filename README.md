@@ -1,6 +1,6 @@
 # Javascript-Mini-Projects
 
-# i. Guess the Number (guess a number from 1 to 20)
+# i. Guess the Number
 ![GuessTheNumber](https://github.com/AbhiCodes737/Javascript-Mini-Projects/assets/102849716/29278981-7edd-4866-92f5-5283ab450b9a)
 
 # ii. Bank Project
